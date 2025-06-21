@@ -31,11 +31,11 @@ module.exports = {
                 message.unsend(waitMsg.messageID);
             }, 4000); // Unsend after 4 seconds
 
-            const botName = "𝗠𝗔𝗛𝗔𝗕𝗨𝗕-𝗕𝗢𝗧";
+            const botName = "𝐃𝐢𝐝𝐚𝐫 𝐄𝐢𝐧𝐬𝐭𝐞𝐢𝐧'𝐬🥂🚬";
             const botPrefix = "/";
-            const authorName = "𝗠𝗔𝗛𝗔𝗕𝗨𝗕 𝗥𝗔𝗛𝗠𝗔𝗡";
-            const authorFB = "https://www.facebook.com/www.xnxx.com140";  
-            const authorInsta = "@mahabub_rahman_404";
+            const authorName = "𝐃𝐢𝐝𝐚𝐫 𝐄𝐢𝐧𝐬𝐭𝐞𝐢𝐧'𝐬";
+            const authorFB = "https://www.facebook.com/Didar.Einstein12";  
+            const authorInsta = "@didar_Ahmed _404";
             const status = "𝚂𝙸𝙽𝙶𝙻𝙴..!";
 
             const now = moment().tz('Asia/Dhaka');
